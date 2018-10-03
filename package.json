@@ -4,7 +4,7 @@
   "description": "Extracts the dominant color from an image buffer",
   "main": "src/index",
   "dependencies": {
-    "canvas": "github.com/Automattic/node-canvas"
+    "canvas": "github:Automattic/node-canvas"
   },
   "devDependencies": {
     "eslint-config-standard": "^12.0.0",
